@@ -1,2 +1,2 @@
 # deronsdentalpractice
-A Node.js website featuring a fictious dental practice.
+A Node.js website featuring a fictitious dental practice.
